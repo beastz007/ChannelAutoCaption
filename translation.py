@@ -18,7 +18,7 @@ You can also use Markdown styles, supported Dynamic variables in seting caption 
 ➪ Before seting, ensure that bot is admin in your channel with editing permission.
 """    
       DYNAMIC_TEXT = """
-🔰 <u>About Dynamic</u>
+🔰 <u>About Dynmic</u>
 
 
 - You can add {variable_name} in caption, bot will replace these variables by its value according to file.
