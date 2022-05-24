@@ -60,5 +60,5 @@ You can also use Markdown styles, supported Dynamic variables in seting caption 
 
 👉 <b>Hyperlink text</b>
 
-📌 <code>[text](https://t.me/durov)</code>
+📌 <code>[text](https://t.me/BeastXBots)</code>
 """
